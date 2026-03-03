@@ -23,6 +23,16 @@ La aplicación está orientada a:
 
 ---
 
+## 📷 Formatos Soportados
+
+MetaData está optimizado para el análisis de los formatos de imagen más utilizados en entornos profesionales y forenses:
+
+*   🖼️ **JPEG / JPG:** Soporte completo (EXIF, XMP, IPTC, Adobe IRB).
+*   🖼️ **PNG:** Extracción de metadatos estándar y bloques de texto.
+*   🖼️ **TIFF / TIF:** Análisis de etiquetas EXIF y metadatos de alta resolución.
+
+---
+
 ![MetaData Preview](https://raw.githubusercontent.com/Pablitus666/Meta-Data/main/images2/Preview.png)
 
 ---

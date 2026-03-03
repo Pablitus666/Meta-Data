@@ -39,6 +39,7 @@ Hemos incluido dos opciones en los **Assets** de este lanzamiento:
 
 ## ✨ Características Premium
 
+*   🖼️ **Compatibilidad Multiformato:** Soporte completo para **JPEG, PNG y TIFF** (incluyendo variantes .jpeg y .tif).
 *   🔍 **Extracción Multicanal:** EXIF, XMP y recursos Adobe.
 *   🛡️ **Privacidad Total:** Procesamiento 100% local y limpieza de metadatos sensibles.
 *   🌍 **Internacionalización:** Soporte para 9 idiomas con detección dinámica.
